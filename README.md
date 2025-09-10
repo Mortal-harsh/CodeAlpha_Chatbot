@@ -7,9 +7,8 @@ It is implemented in both Python and C++, showcasing not only the required inter
 
 ->Two implementations:
 
-     Python: chatbot.py
-
-     C++: chatbot.cpp
+ Python: chatbot.py
+ C++: chatbot.cpp
 
 ->Console-based chatbot with simple predefined responses
 
@@ -27,8 +26,10 @@ It is implemented in both Python and C++, showcasing not only the required inter
 
 ▶️ Run Instructions
 1.Python
-python chatbot.py
+    
+     python chatbot.py
 
 2.C++
-g++ chatbot.cpp -o chatbot
-./chatbot
+
+    g++ chatbot.cpp -o chatbot
+    ./chatbot
